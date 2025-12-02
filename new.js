@@ -1,7 +1,7 @@
 const colorArray = [
     "#f3e84e",
-    "#d34c3d",
-    "#e4b0bd",
+    "rgba(196, 124, 226, 1)",
+    "#ff8ca9ff",
     "#b9e021",
     "#00d5ff",
     "#c86900",
